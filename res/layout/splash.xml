@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+android:id="@+id/widget35"
+android:layout_width="317px"
+android:layout_height="138px"
+android:text="Campus Foodie"
+android:textSize="44sp"
+android:background="#F0F0F0"
+android:layout_gravity="center_horizontal"
+>
+</TextView>
+<TextView
+android:id="@+id/widget36"
+android:layout_width="278px"
+android:layout_height="182px"
+android:layout_marginTop="10px"
+android:layout_marginLeft="10px"
+android:layout_marginRight="10px"
+android:text="Welcome to Campus Foodie! Find out about events across where free food or soda are being provided and tell your friends about it too!"
+android:textSize="16sp"
+android:gravity="center"
+android:layout_gravity="center_horizontal"
+>
+</TextView>
+
+</LinearLayout>
