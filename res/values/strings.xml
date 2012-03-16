@@ -3,6 +3,6 @@
     <string name="hello">Hello! Welcome to Campus Foodie</string>
     <string name="app_name">CampusFoodie</string>
     <string name="menu_name">CampusFoodie</string>
-    <string name="events">Todays events </string>
+    <string name="events">Today\'s events </string>
     <string name="splash_screen">Find food on campus! </string>
 </resources>

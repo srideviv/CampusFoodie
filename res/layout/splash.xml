@@ -3,14 +3,16 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:background="@drawable/bg"
     >
 <TextView
 android:id="@+id/widget35"
-android:layout_width="317px"
-android:layout_height="138px"
-android:text="Campus Foodie"
-android:textSize="44sp"
-android:background="#F0F0F0"
+android:layout_width="250px"
+android:layout_height="108px"
+android:layout_marginTop="20px" 
+android:layout_marginLeft="12px"
+android:padding="5px"
+android:background="@drawable/campus_foodie"
 android:layout_gravity="center_horizontal"
 >
 </TextView>
@@ -24,6 +26,7 @@ android:layout_marginRight="10px"
 android:text="Welcome to Campus Foodie! Find out about events across where free food or soda are being provided and tell your friends about it too!"
 android:textSize="16sp"
 android:gravity="center"
+android:textColor="#80461B"
 android:layout_gravity="center_horizontal"
 >
 </TextView>
